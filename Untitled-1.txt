@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Netflix Clone</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg">
+</div>
+
+<nav>
+
+<ul>
+
+<li><a href="#">Home</a></li>
+
+<li><a href="#">TV Shows</a></li>
+
+<li><a href="#">Movies</a></li>
+
+<li><a href="#">New & Popular</a></li>
+
+<li><a href="#">My List</a></li>
+
+</ul>
+
+</nav>
+
+<div class="right">
+
+<i class="fas fa-search"></i>
+
+<i class="fas fa-bell"></i>
+
+<img src="https://i.pravatar.cc/40">
+
+</div>
+
+</header>
+
+<section class="banner">
+
+<div class="overlay">
+
+<div class="content">
+
+<h1>Wednesday</h1>
+
+<p>
+Smart, sarcastic, and a little dead inside,
+Wednesday Addams investigates a supernatural mystery.
+</p>
+
+<div class="buttons">
+
+<button class="play">
+<i class="fas fa-play"></i>
+Play
+</button>
+
+<button class="info">
+<i class="fas fa-info-circle"></i>
+More Info
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="movies">
+
+<h2>Trending Now</h2>
+
+<div class="row">
+
+<div class="card">
+<img src="https://picsum.photos/300/450?1">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?2">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?3">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?4">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?5">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?6">
+</div>
+
+</div>
+
+</section>
+
+<section class="movies">
+
+<h2>Popular on Netflix</h2>
+
+<div class="row">
+
+<div class="card">
+<img src="https://picsum.photos/300/450?7">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?8">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?9">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?10">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?11">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?12">
+</div>
+
+</div>
+
+</section>
+
+<section class="movies">
+
+<h2>Action Movies</h2>
+
+<div class="row">
+
+<div class="card">
+<img src="https://picsum.photos/300/450?13">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?14">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?15">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?16">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?17">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?18">
+</div>
+
+</div>
+
+</section>
+
+<section class="movies">
+
+<h2>Comedy Movies</h2>
+
+<div class="row">
+
+<div class="card">
+<img src="https://picsum.photos/300/450?19">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?20">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?21">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?22">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?23">
+</div>
+
+<div class="card">
+<img src="https://picsum.photos/300/450?24">
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>Netflix Clone © 2026</p>
+
+</footer>
+
+<script src="app.js"></script>
+
+</body>
+
+</html>
